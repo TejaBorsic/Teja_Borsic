@@ -1,2 +1,3 @@
-1. status vseh datotek pred prvim commit-om: Unknown
-2. status vseh datotek pred drugim commit-om: Modified
+1. status vseh datotek pred commit-om: Unknown
+2. status vseh datotek pred commit-om: Modified
+3. status datoteke vaja/tmp.txt pred commit-om: Missing
